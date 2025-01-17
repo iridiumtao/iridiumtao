@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**iridiumtao/iridiumtao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Computer Engineering MS student at NYU
+with expertise in software development, DevOps, and AI applications, passionate about creating innovative and scalable solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/chun-ju-tao-3b1485254"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-Expert-_.svg?logo=python"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-Expert-_.svg?logo=react"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-Expert-_.svg?logo=vuedotjs"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swift-Enthusiast-_.svg?logo=swift"></a>
+</p>
